@@ -48,7 +48,7 @@ Users should be able to:
 ### What I learned
 
 To build this project I used a mobile-first approach.
-Used both flexbox and grid to achieve the layour.
+Used both flexbox and grid to achieve the layout.
 Used JavaScript to provide with the validadion of the email field in the input.
 
 ### Continued development
